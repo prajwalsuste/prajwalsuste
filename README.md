@@ -14,7 +14,7 @@
 ## 🤝 I’m looking for help with
 - Writing clean, testable backend code
 - Understanding advanced React concepts
-- Improving system design skills
+- Improving system design skills 
 
 ## 🌱 I’m currently learning
 - Advanced React
